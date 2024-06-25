@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#provider_aws
+#provider_aws_ec2
 provider "aws"{
   region = "us-east-1"
 }
